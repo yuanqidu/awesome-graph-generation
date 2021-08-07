@@ -11,3 +11,5 @@
 
 ## Algorithm
 [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html) [GraphRNN] ```ICML 2018```
+[NetGAN: Generating Graphs via Random Walks](http://proceedings.mlr.press/v80/bojchevski18a.html) [NetGAN] ```ICML 2018```
+[GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) [GraphVAE] ```ICANN 2018```
