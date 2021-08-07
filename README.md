@@ -16,6 +16,8 @@
 
 [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) [GraphVAE] ```ICANN 2018```
 
+[Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459) [Graphite] ```ICML 2019```
+
 
 ## Application
 
