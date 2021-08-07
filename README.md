@@ -16,6 +16,11 @@
 
 [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) [GraphVAE] ```ICANN 2018```
 
+
+## Application
+
+### Molecule Generation
+
 [Junction tree variational autoencoder for molecular graph generation]() [JTVAE] ```ICML 2018```
 
 [Constrained generation of semantically valid graphs via regularizing variational autoencoders]() [CGVAE] ```NeurIPS 2018```
@@ -25,12 +30,6 @@
 [Graphnvp: An invertible flow model for generating molecular graphs]() [GraphNVP] ```Arxiv 2019```
 
 [GraphAF: a flow-based autoregressive model for molecular graph generation]() [GraphAF] ```ICLR 2020```
-
-
-
-## Application
-
-### Molecule Generation
 
 ## Survey
 [A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
