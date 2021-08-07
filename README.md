@@ -7,3 +7,7 @@
 - [Application](#Application)
 - [Survey](#Survey)
 - [Resources](#Resource)
+
+
+## Algorithm
+[GraphRNN](http://proceedings.mlr.press/v80/you18a.html)  ```ICML 2018```
