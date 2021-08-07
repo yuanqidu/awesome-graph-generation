@@ -16,5 +16,9 @@
 
 [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) [GraphVAE] ```ICANN 2018```
 
+## Application
+
+### Molecule Generation
+
 ## Survey
 [A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
