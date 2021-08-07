@@ -39,6 +39,8 @@
 
 [MoFlow: an invertible flow model for generating molecular graphs](https://arxiv.org/abs/2006.10137) [MoFlow] ```KDD 2020```
 
+[GraphEBM: Molecular graph generation with energy-based models](https://arxiv.org/abs/2102.00546) [GraphEBM] ```ICLR 2021 Workshop```
+
 [GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) [GraphDF] ```ICML 2021```
 
 
