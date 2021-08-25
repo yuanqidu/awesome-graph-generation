@@ -54,3 +54,7 @@
 ## Resource
 ### Dataset
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/)
+
+### Workshop
+
+### Tutorial
