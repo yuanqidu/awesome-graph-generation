@@ -13,15 +13,15 @@
 ## Algorithm
 [Learning deep generative models of graphs](https://arxiv.org/abs/1803.03324) ```ICLR 2018 Workshop```
 
-[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html) [GraphRNN] ```ICML 2018```
+[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html) ```ICML 2018```
 
-[NetGAN: Generating Graphs via Random Walks](http://proceedings.mlr.press/v80/bojchevski18a.html) [NetGAN] ```ICML 2018```
+[NetGAN: Generating Graphs via Random Walks](http://proceedings.mlr.press/v80/bojchevski18a.html) ```ICML 2018```
 
 [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) [GraphVAE] ```ICANN 2018```
 
 [Defactor: Differentiable edge factorization-based probabilistic graph generation](https://arxiv.org/abs/1811.09766) ```Arxiv 2018```
 
-[Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459) [Graphite] ```ICML 2019```
+[Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459) ```ICML 2019```
 
 [Deep Q-Learning for directed acyclic graph generation](https://arxiv.org/abs/1906.02280) ```ICML 2019 Workshop```
 
@@ -40,29 +40,29 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 
 ### Molecule Generation
 
-[Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) [JTVAE] ```ICML 2018```
+[Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) ```ICML 2018```
 
-[MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) [MolGAN] ```ICML 2018 Workshop```
+[MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) ```ICML 2018 Workshop```
 
 [Constrained generation of semantically valid graphs via regularizing variational autoencoders](https://papers.nips.cc/paper/2018/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf) ```NeurIPS 2018```
 
-[Graph convolutional policy network for goal-directed molecular graph generation](https://arxiv.org/abs/1806.02473) [GCPN] ```NeurIPS 2018```
+[Graph convolutional policy network for goal-directed molecular graph generation](https://arxiv.org/abs/1806.02473) ```NeurIPS 2018```
 
-[Constrained graph variational autoencoders for molecule design](https://papers.nips.cc/paper/2018/file/b8a03c5c15fcfa8dae0b03351eb1742f-Paper.pdf) [CGVAE] ```NeurIPS 2018```
+[Constrained graph variational autoencoders for molecule design](https://papers.nips.cc/paper/2018/file/b8a03c5c15fcfa8dae0b03351eb1742f-Paper.pdf) ```NeurIPS 2018```
 
 [MolecularRNN: generating realistic molecular graphs with optimized properties](https://arxiv.org/abs/1905.13372) [MolecularRNN] ```Arxiv 2019```
 
-[Graphnvp: An invertible flow model for generating molecular graphs](https://arxiv.org/abs/1905.11600) [GraphNVP] ```Arxiv 2019```
+[Graphnvp: An invertible flow model for generating molecular graphs](https://arxiv.org/abs/1905.11600) ```Arxiv 2019```
 
 [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a) ```Chemical Science 2019```
 
-[GraphAF: a flow-based autoregressive model for molecular graph generation](https://arxiv.org/abs/2001.09382) [GraphAF] ```ICLR 2020```
+[GraphAF: a flow-based autoregressive model for molecular graph generation](https://arxiv.org/abs/2001.09382)  ```ICLR 2020```
 
-[MoFlow: an invertible flow model for generating molecular graphs](https://arxiv.org/abs/2006.10137) [MoFlow] ```KDD 2020```
+[MoFlow: an invertible flow model for generating molecular graphs](https://arxiv.org/abs/2006.10137) ```KDD 2020```
 
-[GraphEBM: Molecular graph generation with energy-based models](https://arxiv.org/abs/2102.00546) [GraphEBM] ```ICLR 2021 Workshop```
+[GraphEBM: Molecular graph generation with energy-based models](https://arxiv.org/abs/2102.00546) ```ICLR 2021 Workshop```
 
-[GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) [GraphDF] ```ICML 2021```
+[GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) ```ICML 2021```
 
 ### Engineering
 [Deep Generative Graph Distribution Learning for Synthetic Power Grids](https://arxiv.org/abs/1901.09674) ```Arxiv 2019```
