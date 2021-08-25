@@ -52,5 +52,5 @@
 [A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
 
 ## Resource
-# Dataset
+### Dataset
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/)
