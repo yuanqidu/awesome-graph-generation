@@ -68,7 +68,7 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 
 [A two-step graph convolutional decoder for molecule generation](https://arxiv.org/abs/1906.03412) ```NeurIPS 2019 Workshop```
 
-[MolecularRNN: generating realistic molecular graphs with optimized properties](https://arxiv.org/abs/1905.13372) [MolecularRNN] ```Arxiv 2019```
+[MolecularRNN: generating realistic molecular graphs with optimized properties](https://arxiv.org/abs/1905.13372) ```Arxiv 2019```
 
 [Graphnvp: An invertible flow model for generating molecular graphs](https://arxiv.org/abs/1905.11600) ```Arxiv 2019```
 
