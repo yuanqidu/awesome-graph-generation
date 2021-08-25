@@ -56,5 +56,6 @@
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/)
 
 ### Workshop
+[Deep Generative Models for Highly Structured Data](https://deep-gen-struct.github.io/) ```ICLR 2019```
 
 ### Tutorial
