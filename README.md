@@ -109,6 +109,9 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 ### Protein Design
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
 
+### Social Science
+[Synthetic generators for cloning social network data](http://eecs.ucf.edu/~halvari/10.pdf) ```ASE International Conference on Social Informatics```
+
 ### Engineering
 [Deep Generative Graph Distribution Learning for Synthetic Power Grids](https://arxiv.org/abs/1901.09674) ```Arxiv 2019```
 
