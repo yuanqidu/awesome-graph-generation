@@ -1,7 +1,7 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of graph generation papers and resources.
  - A bib file for all the collected papers
- - This Repo is being actively updated and maintained! 08/25/21 
+ - This Repo is being actively updated and maintained! 09/03/21 
 
 ## Cotents
 - [Algorithm](#Algorithm)
@@ -52,6 +52,8 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 [Labeled graph generative adversarial networks](https://arxiv.org/abs/1906.03220) ```Arxiv 2019```
 
 [Explore Deep Graph Generation](http://snap.stanford.edu/class/cs224w-2019/project/26420251.pdf) ```2019```
+
+[Scalable Deep Generative Modeling for Sparse Graphs](https://arxiv.org/pdf/2006.15502.pdf) ```ICML 2020```
 
 [Multi-MotifGAN (MMGAN): Motif-Targeted graph generation and prediction](https://ieeexplore.ieee.org/abstract/document/9053451?casa_token=dzHVa7IYE7MAAAAA:2RuJ1izF88dqlBasiBchpa-p4wjqiZqUQNOE4zAc7aYM5u-32gz1V2JTM6zzAuEiX13kZcTX) ```ICASSP 2020```
 
@@ -111,9 +113,14 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 [Deep Generative Graph Distribution Learning for Synthetic Power Grids](https://arxiv.org/abs/1901.09674) ```Arxiv 2019```
 
 ## Survey
+[Graph Generators: State of the Art and Open Challenges](https://dl.acm.org/doi/pdf/10.1145/3379445) ```ACM Computing Surveys 2020```
+
 [A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
 
+[Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
+
 ## Resource
+
 ### Dataset
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/)
 
