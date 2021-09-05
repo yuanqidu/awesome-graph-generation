@@ -1,7 +1,7 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of graph generation papers and resources.
  - A bib file for all the collected papers
- - This Repo is being actively updated and maintained! 09/03/21 
+ - This Repo is being actively updated and maintained! 09/05/21 
 
 ## Cotents
 - [Algorithm](#Algorithm)
@@ -40,6 +40,8 @@
 [D-vae: A variational autoencoder for directed acyclic graphs](https://arxiv.org/abs/1904.11088) ```NeurIPS 2019```
 
 [Efficient graph generation with graph recurrent attention networks](https://arxiv.org/abs/1910.00760) ```NeurIPS 2019```
+
+[Efficient Graph Generation with Graph Recurrent Attention Networks](https://arxiv.org/pdf/1910.00760.pdf) ```NeurIPS 2019```
 
 [Graph normalizing flows](https://arxiv.org/abs/1905.13177) ```NeurIPS 2019```
 
