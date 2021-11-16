@@ -127,7 +127,7 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 ## Resource
 
 ### Dataset
-[GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/)
+[GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ### Workshop
 [Deep Generative Models for Highly Structured Data](https://deep-gen-struct.github.io/) ```ICLR 2019```
