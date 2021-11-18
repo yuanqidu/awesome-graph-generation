@@ -71,11 +71,11 @@
 
 [Exploring spatial data representation with dynamic graphics](https://www.sciencedirect.com/science/article/pii/S0098300497000095) ```Computers \& Geosciences 1997```
 
-[Collective dynamics of ‘smallworld’networks](https://pubmed.ncbi.nlm.nih.gov/9623998/#:~:text=Collective%20dynamics%20of%20%27small-world%27%20networks%20Networks%20of%20coupled,is%20assumed%20to%20be%20either%20completely%20re%20%E2%80%A6) ```Adaptive degree penalization for link prediction 1998```
+[Collective dynamics of ‘smallworld’networks](https://pubmed.ncbi.nlm.nih.gov/9623998/#:~:text=Collective%20dynamics%20of%20%27small-world%27%20networks%20Networks%20of%20coupled,is%20assumed%20to%20be%20either%20completely%20re%20%E2%80%A6) ```nature 1998```
 
 [gspan: Graph-based substructure pattern mining.](https://ieeexplore.ieee.org/abstract/document/1184038/?casa_token=rWmu5JNjDv8AAAAA:u8aJUQZFxyBTQ17FD2fD9qDVtNl33tWsH5a1_S5YD3vKQZ6MM6ozIj8exnUmCel9rooOXn1N) ```ICDM 2002```
 
-[Design and Implementation of the HPCS Graph Analysis](https://link.springer.com/chapter/10.1007/11602569_48) ```International Conference on High-Performance Computing 2005```
+[Design and Implementation of the HPCS Graph Analysis](https://link.springer.com/chapter/10.1007/11602569_48) ```HPC 2005```
 
 [Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication](https://link.springer.com/chapter/10.1007/11564126_17) ```European conference on principles of data mining and knowledge discovery 2005```
 
@@ -93,27 +93,28 @@
 
 [RTG: a recursive realistic graph generator using random typing](https://link.springer.com/chapter/10.1007/978-3-642-04180-8_13) ```KDD 2009```
 
-[Kronecker graphs: An approach to modeling networks](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf) ```Journal of Machine Learning Research 2010```
+[Kronecker graphs: An approach to modeling networks](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf) ```JMLR 2010```
 
-[Weisfeiler-lehman graph kernels](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) ```Journal of Machine Learning Research. 2011```
+[Weisfeiler-lehman graph kernels](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) ```JMLR 2011```
 
 [An Efficient Generator for Clustered Dynamic Random Networks](https://link.springer.com/chapter/10.1007/978-3-642-34862-4_16) ```Mediterranean Conference on Algorithms 2012```
 
-[Fast random walk graph kernel](https://epubs.siam.org/doi/abs/10.1137/1.9781611972825.71) ```SIAM 2012```
+[Fast random walk graph kernel](https://epubs.siam.org/doi/abs/10.1137/1.9781611972825.71) ```SDM 2012```
 
 [S3G2: A Scalable Structure-Correlated Social Graph Generator](https://link.springer.com/chapter/10.1007/978-3-642-36727-4_11) ```TCPEB 2012```
 
 [Conditional generative adversarial nets](https://arxiv.org/pdf/1411.1784.pdf) ```Arxiv 2014```
 
-[Generative adversarial nets](https://papers.nips.cc/paper/5423-ge...al-nets.pdf) ```NIPS 2014```
+[Generative adversarial nets](https://papers.
+.cc/paper/5423-ge...al-nets.pdf) ```NeurlIPS 2014```
 
-[How Community-like is the Structure of Synthetically Generated Graphs?](https://dl.acm.org/doi/abs/10.1145/2621934.2621942?casa_token=B8uIRdhpl1IAAAAA:LYE7N_z62ypvEw5GJoigQ2mtA9ZOhFxYr0H5qmKW1bCKSbueXo77nh5OraQ5z7HR3_C47iQhr6o) ```GRAph Data management Experiences and Systems 2014```
+[How Community-like is the Structure of Synthetically Generated Graphs?](https://dl.acm.org/doi/abs/10.1145/2621934.2621942?casa_token=B8uIRdhpl1IAAAAA:LYE7N_z62ypvEw5GJoigQ2mtA9ZOhFxYr0H5qmKW1bCKSbueXo77nh5OraQ5z7HR3_C47iQhr6o) ```Graph Data management Experiences and Systems 2014```
 
 [Structured generative models of natural source code](http://proceedings.mlr.press/v32/maddison14.html) ```PMLR 2014```
 
 [A dynamic multiagent genetic algorithm for gene regulatory network reconstruction based on fuzzy cognitive maps](https://ieeexplore.ieee.org/abstract/document/7164311/?casa_token=ucV9hM9tDOkAAAAA:kDJOpPWlbPip7o6eRyN8idCsQU83KFvVqWMNIgqJmSf2GykwUQ2PDcuGUBD1zOIf-nsqFlk) ```IEEE Transactions on Fuzzy Systems 2015```
 
-[A modularity-based random SAT instances generator](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10969) ```Twenty-Fourth International Joint Conference on Artificial Intelligence 2015```
+[A modularity-based random SAT instances generator](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10969) ```IJCAI 2015```
 
 [Graph-based statistical language model for code](https://ieeexplore.ieee.org/abstract/document/7194632/?casa_token=115gh0GEMNoAAAAA:dQeqmZ4ID9oDMuVxGU7rSlom1dYa-FEZu51jW0EomiXdh1Z5mo-rDh7fIkpWPv-_KJcJ8s8) ```ICSE 2015```
 
@@ -121,7 +122,7 @@
 
 [A synthetic data generator for online social network graphs](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s13278-016-0352-y&casa_token=pS8gAqbsGb4AAAAA:KT3tyfobI8igff9ijBIKkjv5QYQnjZDwVBTGGO0bv-f7eFrCNFFZCJDz-LAROUBR8dUcahuuCuROp3A) ```Social Network Analysis and Mining 2016```
 
-[Composing graphical models with neural networks for structured representations and fast inference](http://papers.nips.cc/paper/6379-mutual-information-for-symmetric-rank-one-matrix-estimation-a-proof-of-the-replica-formula) ```NIPS 2016```
+[Composing graphical models with neural networks for structured representations and fast inference](http://papers.nips.cc/paper/6379-mutual-information-for-symmetric-rank-one-matrix-estimation-a-proof-of-the-replica-formula) ```NeurlIPS 2016```
 
 [Functional Dependencies for Graphs](https://dl.acm.org/doi/abs/10.1145/2882903.2915232) ```ICMD 2016```
 
@@ -137,7 +138,7 @@
 
 [Graph attention networks](https://arxiv.org/abs/1710.10903) ```Arxiv 2017```
 
-[Inductive represenation learning on large graphs](http://papers.nips.cc/paper/6703-inductive-representation-learningon-large-graphs.pdf) ```NIPS 2017```
+[Inductive represenation learning on large graphs](http://papers.nips.cc/paper/6703-inductive-representation-learningon-large-graphs.pdf) ```NeurlIPS 2017```
 
 [Scene graph generation by iterative message passing](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Scene_Graph_Generation_CVPR_2017_paper.html) ```CVPR 2017```
 
