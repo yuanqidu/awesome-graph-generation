@@ -1,7 +1,7 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of graph generation papers and resources.
  - A bib file for all the collected papers
- - This Repo is being actively updated and maintained! 11/17/21 
+ - This Repo is being actively updated and maintained! 11/18/21 
 
 ## Cotents
 - [Algorithm](#Algorithm)
@@ -41,13 +41,11 @@
 
 [Efficient graph generation with graph recurrent attention networks](https://arxiv.org/abs/1910.00760) ```NeurIPS 2019```
 
-[Efficient Graph Generation with Graph Recurrent Attention Networks](https://arxiv.org/pdf/1910.00760.pdf) ```NeurIPS 2019```
-
 [Graph normalizing flows](https://arxiv.org/abs/1905.13177) ```NeurIPS 2019```
 
 [Graph generation with variational recurrent neural network](https://arxiv.org/abs/1910.01743) ```NeurIPS 2019 Workshop```
 
-Graph generation by sequential edge prediction ```ESANN 2019```
+[Graph generation by sequential edge prediction](https://arpi.unipi.it/handle/11568/1018234) ```ESANN 2019```
 
 [Encoding robust representation for graph generation](https://ieeexplore.ieee.org/abstract/document/8851705?casa_token=vuMfA_D1LpMAAAAA:r1gU3LpQnlDINNJpH-K889PJoQmnM6cDnPhbhukSL8Y6jYH-QyU_HNL7UdvK-Vy023kZH7CN) ```IJCNN 2019```
 
@@ -69,6 +67,81 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 ## Application
 
 ### Molecule Generation
+[On the evolution of random graphs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.530&rep=rep1&type=pdf) ```Publ. Math. Inst. Hung. Acad. Sci 1960```
+
+[Exploring spatial data representation with dynamic graphics](https://www.sciencedirect.com/science/article/pii/S0098300497000095) ```Computers \& Geosciences 1997```
+
+[Collective dynamics of ‘smallworld’networks](https://pubmed.ncbi.nlm.nih.gov/9623998/#:~:text=Collective%20dynamics%20of%20%27small-world%27%20networks%20Networks%20of%20coupled,is%20assumed%20to%20be%20either%20completely%20re%20%E2%80%A6) ```Adaptive degree penalization for link prediction 1998```
+
+[gspan: Graph-based substructure pattern mining.](https://ieeexplore.ieee.org/abstract/document/1184038/?casa_token=rWmu5JNjDv8AAAAA:u8aJUQZFxyBTQ17FD2fD9qDVtNl33tWsH5a1_S5YD3vKQZ6MM6ozIj8exnUmCel9rooOXn1N) ```ICDM 2002```
+
+[Design and Implementation of the HPCS Graph Analysis](https://link.springer.com/chapter/10.1007/11602569_48) ```International Conference on High-Performance Computing 2005```
+
+[Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication](https://link.springer.com/chapter/10.1007/11564126_17) ```European conference on principles of data mining and knowledge discovery 2005```
+
+[Recent developments in exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000384?casa_token=cSAl0NKULYoAAAAA:NKwkxSC3QjkQV2PX5FMeH_x1bVc6Kwmxkc78UIRXfSgmz2Uwe23ZBHvGq4e--T4Y7-oIz-rPii4) ```Social networks 2007```
+
+[RTM: Laws and a Recursive Generator for Weighted Time-Evolving Graphs](https://ieeexplore.ieee.org/abstract/document/4781165/?casa_token=1gq2LmqHao8AAAAA:DfIH3znn9KTlWLWOUANvPveUUsTb535nDYnpfwV34iHndxUXjumoVeCIk6GfZVqMYFx6C1zlnw) ```ICDM 2008```
+
+[Studying geometric graph properties of road networks through an algorithmic lens](https://arxiv.org/abs/0808.3694) ```Arxiv 2008```
+
+[The graph neural network model](https://ieeexplore.ieee.org/abstract/document/4700287/?casa_token=jjaQp6pTm9QAAAAA:3mat2h7JwaUo6CZXm8Qm4MpRgYndnYysA0joXJRFmke-bSRAz5JSY8g561UYJBLt0tMeSfYoEg) ```IEEE TNN 2008```
+
+[Generation and Analysis of Large Synthetic Social Contact Networks](https://ieeexplore.ieee.org/abstract/document/5429425/?casa_token=KPi2NNwbmYAAAAAA:T198FCWlxJX7CpiIdCi8yEvwQVWHFfst894bkXrqqC4MSDo7qmEsPb0UaVm_kEA93cqdcGbt) ```WSC 2009```
+
+[Graphsig: A scalable approach to mining significant subgraphs in large graph databases](https://ieeexplore.ieee.org/abstract/document/4812459/?casa_token=_wE4b4CQNMgAAAAA:0aV__QjmuBzu6DJUDhI5EHv4_H4xwwhQuQlXs5t6gc6gc45iqTjBnzh1J9SKCFim2SweHaxr) ```ICDM 2009```
+
+[RTG: a recursive realistic graph generator using random typing](https://link.springer.com/chapter/10.1007/978-3-642-04180-8_13) ```KDD 2009```
+
+[Kronecker graphs: An approach to modeling networks](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf) ```Journal of Machine Learning Research 2010```
+
+[Weisfeiler-lehman graph kernels](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) ```Journal of Machine Learning Research. 2011```
+
+[An Efficient Generator for Clustered Dynamic Random Networks](https://link.springer.com/chapter/10.1007/978-3-642-34862-4_16) ```Mediterranean Conference on Algorithms 2012```
+
+[Fast random walk graph kernel](https://epubs.siam.org/doi/abs/10.1137/1.9781611972825.71) ```SIAM 2012```
+
+[S3G2: A Scalable Structure-Correlated Social Graph Generator](https://link.springer.com/chapter/10.1007/978-3-642-36727-4_11) ```TCPEB 2012```
+
+[Conditional generative adversarial nets](https://arxiv.org/pdf/1411.1784.pdf) ```Arxiv 2014```
+
+[Generative adversarial nets](https://papers.nips.cc/paper/5423-ge...al-nets.pdf) ```NIPS 2014```
+
+[How Community-like is the Structure of Synthetically Generated Graphs?](https://dl.acm.org/doi/abs/10.1145/2621934.2621942?casa_token=B8uIRdhpl1IAAAAA:LYE7N_z62ypvEw5GJoigQ2mtA9ZOhFxYr0H5qmKW1bCKSbueXo77nh5OraQ5z7HR3_C47iQhr6o) ```GRAph Data management Experiences and Systems 2014```
+
+[Structured generative models of natural source code](http://proceedings.mlr.press/v32/maddison14.html) ```PMLR 2014```
+
+[A dynamic multiagent genetic algorithm for gene regulatory network reconstruction based on fuzzy cognitive maps](https://ieeexplore.ieee.org/abstract/document/7164311/?casa_token=ucV9hM9tDOkAAAAA:kDJOpPWlbPip7o6eRyN8idCsQU83KFvVqWMNIgqJmSf2GykwUQ2PDcuGUBD1zOIf-nsqFlk) ```IEEE Transactions on Fuzzy Systems 2015```
+
+[A modularity-based random SAT instances generator](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10969) ```Twenty-Fourth International Joint Conference on Artificial Intelligence 2015```
+
+[Graph-based statistical language model for code](https://ieeexplore.ieee.org/abstract/document/7194632/?casa_token=115gh0GEMNoAAAAA:dQeqmZ4ID9oDMuVxGU7rSlom1dYa-FEZu51jW0EomiXdh1Z5mo-rDh7fIkpWPv-_KJcJ8s8) ```ICSE 2015```
+
+[Learning Structured Output Representation using Deep Conditional Generative Models](https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf) ```NeurIPS 2015```
+
+[A synthetic data generator for online social network graphs](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s13278-016-0352-y&casa_token=pS8gAqbsGb4AAAAA:KT3tyfobI8igff9ijBIKkjv5QYQnjZDwVBTGGO0bv-f7eFrCNFFZCJDz-LAROUBR8dUcahuuCuROp3A) ```Social Network Analysis and Mining 2016```
+
+[Composing graphical models with neural networks for structured representations and fast inference](http://papers.nips.cc/paper/6379-mutual-information-for-symmetric-rank-one-matrix-estimation-a-proof-of-the-replica-formula) ```NIPS 2016```
+
+[Functional Dependencies for Graphs](https://dl.acm.org/doi/abs/10.1145/2882903.2915232) ```ICMD 2016```
+
+[gMark: Schema-Driven Generation of Graphs and Queries](https://ieeexplore.ieee.org/abstract/document/7762945/?casa_token=Zx3dnY4M1gYAAAAA:T9_vkhKzEqETQE86PkJGeT-EPKFaKdSx2Tisnz8OlQ6V0ustqIEu5MkWQqjTbinkrAQFzTM) ```TKDM 2016```
+
+[Semi-supervised classification with graph convolutional networks](https://arxiv.org/abs/1609.02907) ```Arxiv 2016```
+
+[UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/1511.06434) ```ICLR 2016```
+
+[BrainNetCNN: Convolutional neural networks for brain networks; towards predicting neurodevelopment](https://www.sciencedirect.com/science/article/pii/S1053811916305237?casa_token=sxtZSJHhM8oAAAAA:n13aCArxyeI2pVdxIBAodXMjxz4mHBbm4hLL-nh1X-ruVS9O3laxcTGTQLJHCELHRKwN4oPo) ```NeuroImage 2017```
+
+[Generating synthetic decentralized social graphs with local differential privacy](https://dl.acm.org/doi/abs/10.1145/3133956.3134086?casa_token=9pKQoVAlJL4AAAAA:wRD0UDxFn87DZS-S6nlYgCAS3hD4yCyCoqcU_KbHnYw_ndy72iQFaetHQprr7UFaQkdxax2glegy) ```SIGSAC 2017```
+
+[Graph attention networks](https://arxiv.org/abs/1710.10903) ```Arxiv 2017```
+
+[Inductive represenation learning on large graphs](http://papers.nips.cc/paper/6703-inductive-representation-learningon-large-graphs.pdf) ```NIPS 2017```
+
+[Scene graph generation by iterative message passing](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Scene_Graph_Generation_CVPR_2017_paper.html) ```CVPR 2017```
+
+[Scene graph generation from objects, phrases and region captions](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Scene_Graph_Generation_ICCV_2017_paper.html) ```ICCV 2017```
 
 [Grammar variational autoencoder](http://proceedings.mlr.press/v70/kusner17a) ```ICML 2017```
 
@@ -109,6 +182,8 @@ Graph generation by sequential edge prediction ```ESANN 2019```
 [E (n) Equivariant Normalizing Flows](http://arxiv-export-lb.library.cornell.edu/abs/2105.09016) ```Arxiv 2021```
 
 ### Protein Design
+[A generative model for protein contact networks](https://www.tandfonline.com/doi/abs/10.1080/07391102.2015.1077736) ```Journal of Biomolecular Structure and Dynamics 2016```
+
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
 
 ### Social Science
