@@ -1,7 +1,7 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of graph generation papers and resources.
  - A bib file for all the collected papers
- - This Repo is being actively updated and maintained! 11/18/21 
+ - This Repo is being actively updated and maintained! 11/19/21 
 
 ## Cotents
 - [Algorithm](#Algorithm)
@@ -11,62 +11,6 @@
 
 
 ## Algorithm
-[Variational graph auto-encoders](https://arxiv.org/abs/1611.07308) ```NeurIPS 2018 Workshop```
-
-[Learning deep generative models of graphs](https://arxiv.org/abs/1803.03324) ```ICLR 2018 Workshop```
-
-[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html) ```ICML 2018```
-
-[NetGAN: Generating Graphs via Random Walks](http://proceedings.mlr.press/v80/bojchevski18a.html) ```ICML 2018```
-
-[GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) ```ICANN 2018```
-
-[Defactor: Differentiable edge factorization-based probabilistic graph generation](https://arxiv.org/abs/1811.09766) ```Arxiv 2018```
-
-[Syntax-directed variational autoencoder for structured data](https://arxiv.org/abs/1802.08786) ```Arxiv 2018```
-
-[Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459) ```ICML 2019```
-
-[Deep Q-Learning for directed acyclic graph generation](https://arxiv.org/abs/1906.02280) ```ICML 2019 Workshop```
-
-[Decoding molecular graph embeddings with reinforcement learning](https://arxiv.org/abs/1904.08915) ```ICML 2019 Workshop```
-
-[STGGAN: Spatial-temporal graph generation](https://dl.acm.org/doi/abs/10.1145/3347146.3363462) ```SIGSPATIAL 2019```
-
-[Gravity-inspired graph autoencoders for directed link prediction](https://dl.acm.org/doi/abs/10.1145/3357384.3358023?casa_token=NGjODQQjKegAAAAA:Vwmjsbl4pXbvEqoPnzPubwSuujML_hsTY2fnXlySF3F33HXRvwadz8Xe976i8YFo42tdCG3hrzoo) ```CIKM 2019```
-
-[Can NetGAN be improved on short random walks?](https://ieeexplore.ieee.org/abstract/document/8923964?casa_token=IOXOC5j4t94AAAAA:sLHPd6O1qXt6CJMK7m8sfAIGmAUoKkho2ScOes1MNvZp3aobHKFTCarUCmwrcFbcTGtSDQUb) ```BRACIS 2019```
-
-[D-vae: A variational autoencoder for directed acyclic graphs](https://arxiv.org/abs/1904.11088) ```NeurIPS 2019```
-
-[Efficient graph generation with graph recurrent attention networks](https://arxiv.org/abs/1910.00760) ```NeurIPS 2019```
-
-[Graph normalizing flows](https://arxiv.org/abs/1905.13177) ```NeurIPS 2019```
-
-[Graph generation with variational recurrent neural network](https://arxiv.org/abs/1910.01743) ```NeurIPS 2019 Workshop```
-
-[Graph generation by sequential edge prediction](https://arpi.unipi.it/handle/11568/1018234) ```ESANN 2019```
-
-[Encoding robust representation for graph generation](https://ieeexplore.ieee.org/abstract/document/8851705?casa_token=vuMfA_D1LpMAAAAA:r1gU3LpQnlDINNJpH-K889PJoQmnM6cDnPhbhukSL8Y6jYH-QyU_HNL7UdvK-Vy023kZH7CN) ```IJCNN 2019```
-
-[Labeled graph generative adversarial networks](https://arxiv.org/abs/1906.03220) ```Arxiv 2019```
-
-[Explore Deep Graph Generation](http://snap.stanford.edu/class/cs224w-2019/project/26420251.pdf) ```2019```
-
-[Scalable Deep Generative Modeling for Sparse Graphs](https://arxiv.org/pdf/2006.15502.pdf) ```ICML 2020```
-
-[Multi-MotifGAN (MMGAN): Motif-Targeted graph generation and prediction](https://ieeexplore.ieee.org/abstract/document/9053451?casa_token=dzHVa7IYE7MAAAAA:2RuJ1izF88dqlBasiBchpa-p4wjqiZqUQNOE4zAc7aYM5u-32gz1V2JTM6zzAuEiX13kZcTX) ```ICASSP 2020```
-
-[GraphGen: a scalable approach to domain-agnostic labeled graph generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380201?casa_token=snxxyKLhOn0AAAAA:faRzcjHgSzOkXySRDey-Ll59l6c30_bfexVuN3p14x18pSkpYWV7x768xqUpeUCrzq8q71DjLZF7) ```WWW 2020```
-
-[Edge-based sequential graph generation with recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0925231220305075?casa_token=dY44yUQEtsIAAAAA:tscqdyB5CdWk461sXq8t6593QRgzxrbl5BmLpnCsSbbg58rXpLESGZ-bIIfcwcBYYyXVwJgZAg) ```Neurocomputing 2020```
-
-[Graph deconvolutional generation](https://arxiv.org/abs/2002.07087) ```Arxiv 2020```
-
-
-## Application
-
-### Molecule Generation
 [On the evolution of random graphs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.530&rep=rep1&type=pdf) ```Publ. Math. Inst. Hung. Acad. Sci 1960```
 
 [Exploring spatial data representation with dynamic graphics](https://www.sciencedirect.com/science/article/pii/S0098300497000095) ```Computers \& Geosciences 1997```
@@ -156,6 +100,78 @@
 
 [Graph convolutional policy network for goal-directed molecular graph generation](https://arxiv.org/abs/1806.02473) ```NeurIPS 2018```
 
+[Variational graph auto-encoders](https://arxiv.org/abs/1611.07308) ```NeurIPS 2018 Workshop```
+
+[Learning deep generative models of graphs](https://arxiv.org/abs/1803.03324) ```ICLR 2018 Workshop```
+
+[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html) ```ICML 2018```
+
+[NetGAN: Generating Graphs via Random Walks](http://proceedings.mlr.press/v80/bojchevski18a.html) ```ICML 2018```
+
+[GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/abs/1802.03480) ```ICANN 2018```
+
+[Defactor: Differentiable edge factorization-based probabilistic graph generation](https://arxiv.org/abs/1811.09766) ```Arxiv 2018```
+
+[Syntax-directed variational autoencoder for structured data](https://arxiv.org/abs/1802.08786) ```Arxiv 2018```
+
+[Graphite: Iterative Generative Modeling of Graphs](https://arxiv.org/abs/1803.10459) ```ICML 2019```
+
+[Deep Q-Learning for directed acyclic graph generation](https://arxiv.org/abs/1906.02280) ```ICML 2019 Workshop```
+
+[Decoding molecular graph embeddings with reinforcement learning](https://arxiv.org/abs/1904.08915) ```ICML 2019 Workshop```
+
+[STGGAN: Spatial-temporal graph generation](https://dl.acm.org/doi/abs/10.1145/3347146.3363462) ```SIGSPATIAL 2019```
+
+[Gravity-inspired graph autoencoders for directed link prediction](https://dl.acm.org/doi/abs/10.1145/3357384.3358023?casa_token=NGjODQQjKegAAAAA:Vwmjsbl4pXbvEqoPnzPubwSuujML_hsTY2fnXlySF3F33HXRvwadz8Xe976i8YFo42tdCG3hrzoo) ```CIKM 2019```
+
+[Can NetGAN be improved on short random walks?](https://ieeexplore.ieee.org/abstract/document/8923964?casa_token=IOXOC5j4t94AAAAA:sLHPd6O1qXt6CJMK7m8sfAIGmAUoKkho2ScOes1MNvZp3aobHKFTCarUCmwrcFbcTGtSDQUb) ```BRACIS 2019```
+
+[D-vae: A variational autoencoder for directed acyclic graphs](https://arxiv.org/abs/1904.11088) ```NeurIPS 2019```
+
+[Efficient graph generation with graph recurrent attention networks](https://arxiv.org/abs/1910.00760) ```NeurIPS 2019```
+
+[Graph normalizing flows](https://arxiv.org/abs/1905.13177) ```NeurIPS 2019```
+
+[Graph generation with variational recurrent neural network](https://arxiv.org/abs/1910.01743) ```NeurIPS 2019 Workshop```
+
+[Graph generation by sequential edge prediction](https://arpi.unipi.it/handle/11568/1018234) ```ESANN 2019```
+
+[Encoding robust representation for graph generation](https://ieeexplore.ieee.org/abstract/document/8851705?casa_token=vuMfA_D1LpMAAAAA:r1gU3LpQnlDINNJpH-K889PJoQmnM6cDnPhbhukSL8Y6jYH-QyU_HNL7UdvK-Vy023kZH7CN) ```IJCNN 2019```
+
+[Labeled graph generative adversarial networks](https://arxiv.org/abs/1906.03220) ```Arxiv 2019```
+
+[D-VAE: A variational autoencoder for directed acyclic graphs](https://arxiv.org/abs/1904.11088) ```Arxiv 2019```
+
+[Explore Deep Graph Generation](http://snap.stanford.edu/class/cs224w-2019/project/26420251.pdf) ```2019```
+
+[Node-edge co-disentangled representation learning for attributed graph generation](https://par.nsf.gov/servlets/purl/10169228) ```SIGKDD 2020```
+
+[Unsupervised joint k-node graph representations with compositional energy-based models](https://arxiv.org/abs/2010.042599) ```Arxiv 2020```
+
+[On the "steerability" of generative adversarial networks](https://arxiv.org/abs/1907.07171) ```Arxiv 2020```
+
+[Scalable Deep Generative Modeling for Sparse Graphs](https://arxiv.org/pdf/2006.15502.pdf) ```ICML 2020```
+
+[Network principled deep generative models for designing drug combinations as graph sets](https://academic.oup.com/bioinformatics/article-abstract/36/Supplement_1/i445/5870465) ```Bioinformatics 2020```
+
+[Multi-MotifGAN (MMGAN): Motif-Targeted graph generation and prediction](https://ieeexplore.ieee.org/abstract/document/9053451?casa_token=dzHVa7IYE7MAAAAA:2RuJ1izF88dqlBasiBchpa-p4wjqiZqUQNOE4zAc7aYM5u-32gz1V2JTM6zzAuEiX13kZcTX) ```ICASSP 2020```
+
+[Permutation invariant graph generation via score-Based generative modeling](http://proceedings.mlr.press/v108/niu20a) ```AISTATS 2020```
+
+[GraphGen: a scalable approach to domain-agnostic labeled graph generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380201?casa_token=snxxyKLhOn0AAAAA:faRzcjHgSzOkXySRDey-Ll59l6c30_bfexVuN3p14x18pSkpYWV7x768xqUpeUCrzq8q71DjLZF7) ```WWW 2020```
+
+[Edge-based sequential graph generation with recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0925231220305075?casa_token=dY44yUQEtsIAAAAA:tscqdyB5CdWk461sXq8t6593QRgzxrbl5BmLpnCsSbbg58rXpLESGZ-bIIfcwcBYYyXVwJgZAg) ```Neurocomputing 2020```
+
+[Graph deconvolutional generation](https://arxiv.org/abs/2002.07087) ```Arxiv 2020```
+
+[GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) ```ICML 2021```
+
+
+## Application
+
+### Molecule Generation
+
+
 [Constrained graph variational autoencoders for molecule design](https://papers.nips.cc/paper/2018/file/b8a03c5c15fcfa8dae0b03351eb1742f-Paper.pdf) ```NeurIPS 2018```
 
 [A two-step graph convolutional decoder for molecule generation](https://arxiv.org/abs/1906.03412) ```NeurIPS 2019 Workshop```
@@ -170,6 +186,10 @@
 
 [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a) ```Chemical Science 2019```
 
+[Nevae: A deep generative model for molecular graphs](https://www.jmlr.org/papers/volume21/19-671/19-671.pdf) ```JMLR 2020```
+
+[Mol-CycleGAN: a generative model for molecular optimization](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1) ```Journal of Cheminformatics 2020```
+
 [GraphAF: a flow-based autoregressive model for molecular graph generation](https://arxiv.org/abs/2001.09382)  ```ICLR 2020```
 
 [MoFlow: an invertible flow model for generating molecular graphs](https://arxiv.org/abs/2006.10137) ```KDD 2020```
@@ -177,8 +197,6 @@
 [A deep generative model for fragment-based molecule generation](http://proceedings.mlr.press/v108/podda20a.html) ```AISTATS 2020```
 
 [GraphEBM: Molecular graph generation with energy-based models](https://arxiv.org/abs/2102.00546) ```ICLR 2021 Workshop```
-
-[GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) ```ICML 2021```
 
 [E (n) Equivariant Normalizing Flows](http://arxiv-export-lb.library.cornell.edu/abs/2105.09016) ```Arxiv 2021```
 
