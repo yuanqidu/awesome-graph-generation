@@ -4,10 +4,18 @@
  - This Repo is being actively updated and maintained! 11/19/21 
 
 ## Cotents
+- [Survey](#Survey)
 - [Algorithm](#Algorithm)
 - [Application](#Application)
-- [Survey](#Survey)
 - [Resources](#Resource)
+
+## Survey
+
+A Survey on Deep Graph Generation: Methods and Applications ```2022```
+
+[Graph Generators: State of the art and open challenges](https://dl.acm.org/doi/abs/10.1145/3379445?casa_token=Syl-NzklLz4AAAAA:vEsigA-YrEurZe6VKi7xjzTxFHkAkELv8zj0OROgi3jjGb_2lSxRkEwqE-qvZ5cCNRkvDWkROCo) ```CSUR 2020```
+
+[Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
 
 
 ## Algorithm
@@ -210,30 +218,6 @@
 
 ### Engineering
 [Deep Generative Graph Distribution Learning for Synthetic Power Grids](https://arxiv.org/abs/1901.09674) ```Arxiv 2019```
-
-## Survey
-
-[Adversarial attack and defense on graph data: A survey](https://arxiv.org/abs/1812.10528)  ```Arxiv 2018```
-
-[Deep generative models: Survey](https://ieeexplore.ieee.org/abstract/document/8354080/) ```ISCV 2018```
-
-[Graph embedding techniques, applications, and performance: A survey.](https://www.sciencedirect.com/science/article/pii/S0950705118301540) ```KBS 2018```  
-
-[Attention models in graphs: A survey](https://dl.acm.org/doi/abs/10.1145/3363574?casa_token=6Rq4VZdIL5wAAAAA:TydoE_8s7cjEViXG0rxDLTNI7FKb0C5rwYrUCYBkKoAyWbuILfEz0DSaI1bwKVw4Ya7kYwi1yK4) ```KDD 2019```  
-
-[A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
-
-[A comprehensive survey on geometric deep learning](https://ieeexplore.ieee.org/abstract/document/9003285/) ```IEEE Access 2020```
-
-[A comprehensive survey on graph neural networks](http://proceedings.mlr.press/v108/podda20a.html) ```IEEE TNNLS 2020``` 
-
-[Deep learning on graphs: A survey](https://ieeexplore.ieee.org/abstract/document/9039675/?casa_token=UYwjMqGe6eoAAAAA:P11UY8t3hn1mYf-L8hbsJTJPGkKk0D9MUWG3l3IWFXx8whYIyuorRnaPCOAdCZLFB2KTM094) ```TKDE 2020``` 
-
-[Graph Generators: State of the art and open challenges](https://dl.acm.org/doi/abs/10.1145/3379445?casa_token=Syl-NzklLz4AAAAA:vEsigA-YrEurZe6VKi7xjzTxFHkAkELv8zj0OROgi3jjGb_2lSxRkEwqE-qvZ5cCNRkvDWkROCo) ```CSUR 2020```
-
-[Deep graph similarity learning: A survey](https://link.springer.com/article/10.1007/s10618-020-00733-5) ```DMKD 2021```
-
-[Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
 
 ## Resource
 
