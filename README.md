@@ -13,9 +13,12 @@
 
 A Survey on Deep Graph Generation: Methods and Applications ```2022```
 
+[Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
+
 [Graph Generators: State of the art and open challenges](https://dl.acm.org/doi/abs/10.1145/3379445?casa_token=Syl-NzklLz4AAAAA:vEsigA-YrEurZe6VKi7xjzTxFHkAkELv8zj0OROgi3jjGb_2lSxRkEwqE-qvZ5cCNRkvDWkROCo) ```CSUR 2020```
 
-[Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
+[A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
+
 
 
 ## Algorithm
