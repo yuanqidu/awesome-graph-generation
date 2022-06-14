@@ -60,8 +60,8 @@
 
 [Conditional generative adversarial nets](https://arxiv.org/pdf/1411.1784.pdf) ```Arxiv 2014```
 
-[Generative adversarial nets](https://papers..cc/paper/5423-ge...al-nets.pdf) ```NeurlIPS 2014```
-
+<!-- [Generative adversarial nets](https://papers..cc/paper/5423-ge...al-nets.pdf) ```NeurlIPS 2014```
+ -->
 [How Community-like is the Structure of Synthetically Generated Graphs?](https://dl.acm.org/doi/abs/10.1145/2621934.2621942?casa_token=B8uIRdhpl1IAAAAA:LYE7N_z62ypvEw5GJoigQ2mtA9ZOhFxYr0H5qmKW1bCKSbueXo77nh5OraQ5z7HR3_C47iQhr6o) ```Graph Data management Experiences and Systems 2014```
 
 [Structured generative models of natural source code](http://proceedings.mlr.press/v32/maddison14.html) ```PMLR 2014```
