@@ -90,8 +90,8 @@
 
 [Generating synthetic decentralized social graphs with local differential privacy](https://dl.acm.org/doi/abs/10.1145/3133956.3134086?casa_token=9pKQoVAlJL4AAAAA:wRD0UDxFn87DZS-S6nlYgCAS3hD4yCyCoqcU_KbHnYw_ndy72iQFaetHQprr7UFaQkdxax2glegy) ```SIGSAC 2017```
 
-[Graph attention networks](https://arxiv.org/abs/1710.10903) ```Arxiv 2017```
-
+<!-- [Graph attention networks](https://arxiv.org/abs/1710.10903) ```Arxiv 2017```
+ -->
 [Inductive represenation learning on large graphs](http://papers.nips.cc/paper/6703-inductive-representation-learningon-large-graphs.pdf) ```NeurlIPS 2017```
 
 [Scene graph generation by iterative message passing](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Scene_Graph_Generation_CVPR_2017_paper.html) ```CVPR 2017```
