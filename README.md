@@ -22,7 +22,7 @@
 
 
 ## Algorithm
-[GraphDF: A discrete flow model for molecular graph generation] (https://arxiv.org/abs/2102.01189) ```ICML 2021``` 
+[GraphDF: A discrete flow model for molecular graph generation](https://arxiv.org/abs/2102.01189) ```ICML 2021``` 
 
 [Multi-MotifGAN (MMGAN): Motif-Targeted graph generation and prediction] (https://ieeexplore.ieee.org/abstract/document/9053451?casa_token=dzHVa7IYE7MAAAAA:2RuJ1izF88dqlBasiBchpa-p4wjqiZqUQNOE4zAc7aYM5u-32gz1V2JTM6zzAuEiX13kZcTX) ```ICASSP 2020``` 
 
