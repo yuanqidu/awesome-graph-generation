@@ -211,9 +211,10 @@
 [E (n) Equivariant Normalizing Flows](http://arxiv-export-lb.library.cornell.edu/abs/2105.09016) ```Arxiv 2021```
 
 ### Protein Design
-[A generative model for protein contact networks](https://www.tandfonline.com/doi/abs/10.1080/07391102.2015.1077736) ```Journal of Biomolecular Structure and Dynamics 2016```
 
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
+
+[A generative model for protein contact networks](https://www.tandfonline.com/doi/abs/10.1080/07391102.2015.1077736) ```Journal of Biomolecular Structure and Dynamics 2016```
 
 ### Social Science
 [Synthetic generators for cloning social network data](http://eecs.ucf.edu/~halvari/10.pdf) ```ASE International Conference on Social Informatics```
@@ -228,5 +229,3 @@
 
 ### Workshop
 [Deep Generative Models for Highly Structured Data](https://deep-gen-struct.github.io/) ```ICLR 2019```
-
-### Tutorial
