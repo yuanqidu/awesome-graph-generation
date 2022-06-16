@@ -49,8 +49,6 @@
 
 [Network principled deep generative models for designing drug combinations as graph sets](https://academic.oup.com/bioinformatics/article-abstract/36/Supplement_1/i445/5870465) ```Bioinformatics 2020``` 
 
-[On the "steerability" of generative adversarial networks](https://openreview.net/forum?id=HylsTT4FvB) ```ICLR 2020``` 
-
 [Permutation invariant graph generation via score-Based generative modeling](http://proceedings.mlr.press/v108/niu20a) ```AISTATS 2020``` 
 
 [GraphGen: a scalable approach to domain-agnostic labeled graph generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380201?casa_token=snxxyKLhOn0AAAAA:faRzcjHgSzOkXySRDey-Ll59l6c30_bfexVuN3p14x18pSkpYWV7x768xqUpeUCrzq8q71DjLZF7) ```WWW 2020``` 
@@ -87,8 +85,6 @@
 
 [Graph generation with variational recurrent neural network](https://arxiv.org/abs/1910.01743) ```NeurIPS 2019 Workshop``` 
 
-[Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) ```ICML 2018``` 
-
 [Learning deep generative models of graphs](https://arxiv.org/abs/1803.03324) ```ICLR 2018 Workshop``` 
 
 [Constrained generation of semantically valid graphs via regularizing variational autoencoders](https://papers.nips.cc/paper/2018/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf) ```NeurIPS 2018``` 
@@ -111,23 +107,13 @@
 
 [DiPol-GAN: Generating Molecular Graphs Adversarially with Relational Differentiable Pooling](https://www.reev.us/pdfs/guarino2019dipol.pdf) ```2017``` 
 
-[Scene graph generation from objects, phrases and region captions](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Scene_Graph_Generation_ICCV_2017_paper.html) ```ICCV 2017``` 
-
 [Scene graph generation by iterative message passing](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Scene_Graph_Generation_CVPR_2017_paper.html) ```CVPR 2017``` 
-
-[Inductive represenation learning on large graphs](http://papers.nips.cc/paper/6703-inductive-representation-learningon-large-graphs.pdf) ```NeurlIPS 2017``` 
 
 [Generating synthetic decentralized social graphs with local differential privacy](https://dl.acm.org/doi/abs/10.1145/3133956.3134086?casa_token=9pKQoVAlJL4AAAAA:wRD0UDxFn87DZS-S6nlYgCAS3hD4yCyCoqcU_KbHnYw_ndy72iQFaetHQprr7UFaQkdxax2glegy) ```SIGSAC 2017``` 
 
 [BrainNetCNN: Convolutional neural networks for brain networks; towards predicting neurodevelopment](https://www.sciencedirect.com/science/article/pii/S1053811916305237?casa_token=sxtZSJHhM8oAAAAA:n13aCArxyeI2pVdxIBAodXMjxz4mHBbm4hLL-nh1X-ruVS9O3laxcTGTQLJHCELHRKwN4oPo) ```NeuroImage 2017``` 
 
-[Grammar variational autoencoder](http://proceedings.mlr.press/v70/kusner17a) ```ICML 2017``` 
-
 [gMark: Schema-Driven Generation of Graphs and Queries](https://ieeexplore.ieee.org/abstract/document/7762945/?casa_token=Zx3dnY4M1gYAAAAA:T9_vkhKzEqETQE86PkJGeT-EPKFaKdSx2Tisnz8OlQ6V0ustqIEu5MkWQqjTbinkrAQFzTM) ```TKDM 2016``` 
-
-[UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/1511.06434) ```ICLR 2016``` 
-
-[Semi-supervised classification with graph convolutional networks](https://arxiv.org/abs/1609.02907) ```Arxiv 2016``` 
 
 [Functional Dependencies for Graphs](https://dl.acm.org/doi/abs/10.1145/2882903.2915232) ```ICMD 2016``` 
 
@@ -145,8 +131,6 @@
 
 [How Community-like is the Structure of Synthetically Generated Graphs?](https://dl.acm.org/doi/abs/10.1145/2621934.2621942?casa_token=B8uIRdhpl1IAAAAA:LYE7N_z62ypvEw5GJoigQ2mtA9ZOhFxYr0H5qmKW1bCKSbueXo77nh5OraQ5z7HR3_C47iQhr6o) ```Graph Data management Experiences and Systems 2014``` 
 
-[Conditional generative adversarial nets](https://arxiv.org/pdf/1411.1784.pdf) ```Arxiv 2014``` 
-
 [Structured generative models of natural source code](http://proceedings.mlr.press/v32/maddison14.html) ```PMLR 2014``` 
 
 [S3G2: A Scalable Structure-Correlated Social Graph Generator](https://link.springer.com/chapter/10.1007/978-3-642-36727-4_11) ```TCPEB 2012``` 
@@ -155,19 +139,11 @@
 
 [An Efficient Generator for Clustered Dynamic Random Networks](https://link.springer.com/chapter/10.1007/978-3-642-34862-4_16) ```Mediterranean Conference on Algorithms 2012``` 
 
-[Weisfeiler-lehman graph kernels](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) ```JMLR 2011``` 
-
 [Kronecker graphs: An approach to modeling networks](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf) ```JMLR 2010``` 
 
 [RTG: a recursive realistic graph generator using random typing](https://link.springer.com/chapter/10.1007/978-3-642-04180-8_13) ```KDD 2009``` 
 
-[Graphsig: A scalable approach to mining significant subgraphs in large graph databases](https://ieeexplore.ieee.org/abstract/document/4812459/?casa_token=_wE4b4CQNMgAAAAA:0aV__QjmuBzu6DJUDhI5EHv4_H4xwwhQuQlXs5t6gc6gc45iqTjBnzh1J9SKCFim2SweHaxr) ```ICDM 2009``` 
-
 [Generation and Analysis of Large Synthetic Social Contact Networks](https://ieeexplore.ieee.org/abstract/document/5429425/?casa_token=KPi2NNwbmYAAAAAA:T198FCWlxJX7CpiIdCi8yEvwQVWHFfst894bkXrqqC4MSDo7qmEsPb0UaVm_kEA93cqdcGbt) ```WSC 2009``` 
-
-[The graph neural network model](https://ieeexplore.ieee.org/abstract/document/4700287/?casa_token=jjaQp6pTm9QAAAAA:3mat2h7JwaUo6CZXm8Qm4MpRgYndnYysA0joXJRFmke-bSRAz5JSY8g561UYJBLt0tMeSfYoEg) ```IEEE TNN 2008``` 
-
-[Studying geometric graph properties of road networks through an algorithmic lens](https://arxiv.org/abs/0808.3694) ```Arxiv 2008``` 
 
 [RTM: Laws and a Recursive Generator for Weighted Time-Evolving Graphs](https://ieeexplore.ieee.org/abstract/document/4781165/?casa_token=1gq2LmqHao8AAAAA:DfIH3znn9KTlWLWOUANvPveUUsTb535nDYnpfwV34iHndxUXjumoVeCIk6GfZVqMYFx6C1zlnw) ```ICDM 2008``` 
 
@@ -175,13 +151,7 @@
 
 [Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication](https://link.springer.com/chapter/10.1007/11564126_17) ```European conference on principles of data mining and knowledge discovery 2005``` 
 
-[Design and Implementation of the HPCS Graph Analysis](https://link.springer.com/chapter/10.1007/11602569_48) ```HPC 2005``` 
-
-[gspan: Graph-based substructure pattern mining.](https://ieeexplore.ieee.org/abstract/document/1184038/?casa_token=rWmu5JNjDv8AAAAA:u8aJUQZFxyBTQ17FD2fD9qDVtNl33tWsH5a1_S5YD3vKQZ6MM6ozIj8exnUmCel9rooOXn1N) ```ICDM 2002``` 
-
-[Collective dynamics of ‘smallworld’networks](https://pubmed.ncbi.nlm.nih.gov/9623998/#:~:text=Collective%20dynamics%20of%20%27small-world%27%20networks%20Networks%20of%20coupled,is%20assumed%20to%20be%20either%20completely%20re%20%E2%80%A6) ```nature 1998``` 
-
-[Exploring spatial data representation with dynamic graphics](https://www.sciencedirect.com/science/article/pii/S0098300497000095) ```Computers \& Geosciences 1997``` 
+[Collective dynamics of ‘smallworld’ networks](https://pubmed.ncbi.nlm.nih.gov/9623998/#:~:text=Collective%20dynamics%20of%20%27small-world%27%20networks%20Networks%20of%20coupled,is%20assumed%20to%20be%20either%20completely%20re%20%E2%80%A6) ```nature 1998``` 
 
 [On the evolution of random graphs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.530&rep=rep1&type=pdf) ```Publ. Math. Inst. Hung. Acad. Sci 1960``` 
 
@@ -197,7 +167,7 @@
 
 [GraphEBM: Molecular graph generation with energy-based models](https://arxiv.org/abs/2102.00546) ```ICLR 2021 Workshop``` 
 
-[E (n) Equivariant Normalizing Flows](http://arxiv-export-lb.library.cornell.edu/abs/2105.09016) ```Arxiv 2021``` 
+[E(n) Equivariant Normalizing Flows](http://arxiv-export-lb.library.cornell.edu/abs/2105.09016) ```NeurIPS 2021``` 
 
 [Nevae: A deep generative model for molecular graphs](https://www.jmlr.org/papers/volume21/19-671/19-671.pdf) ```JMLR 2020``` 
 
@@ -222,6 +192,8 @@
 [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a) ```Chemical Science 2019``` 
 
 [Constrained graph variational autoencoders for molecule design](https://papers.nips.cc/paper/2018/file/b8a03c5c15fcfa8dae0b03351eb1742f-Paper.pdf) ```NeurIPS 2018``` 
+
+[Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) ```ICML 2018``` 
 
 ### Protein Design
 
