@@ -5,13 +5,14 @@
 
 ## Cotents
 - [Survey](#Survey)
+- [Dataset](#Dataset)
 - [Algorithm](#Algorithm)
 - [Application](#Application)
 - [Resources](#Resource)
 
 ## Survey
 
-[A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```2022```
+[A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```Arxiv 2022```
 
 [Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
 
@@ -19,7 +20,8 @@
 
 [A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
 
-
+## Dataset
+[GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ## Algorithm
 
@@ -29,7 +31,7 @@
 
 [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) ```ICLR 2022```
 
-[Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations](https://arxiv.org/abs/2202.02514) ```Arxiv 2022```
+[Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations](https://arxiv.org/abs/2202.02514) ```ICML 2022```
 
 [TD-GEN: Graph Generation Using Tree Decomposition](https://proceedings.mlr.press/v151/shirzad22a.html) ```AISTATS 2022```
 
@@ -234,9 +236,6 @@
 [Deep Generative Graph Distribution Learning for Synthetic Power Grids](https://arxiv.org/abs/1901.09674) ```Arxiv 2019```
 
 ## Resource
-
-### Dataset
-[GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ### Workshop
 
