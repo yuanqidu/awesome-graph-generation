@@ -1,6 +1,6 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of up-to-date graph generation papers and resources.
- - This Repo is being actively updated and maintained! 06/16/22 
+ - This Repo is being actively updated and maintained! 06/20/22 
 
 ## Cotents
 - [Survey](#Survey)
@@ -24,6 +24,10 @@
 
 ## Algorithm
 
+[Deep graph translation](https://ieeexplore.ieee.org/abstract/document/9737289/) ```TNNLS 2022```
+
+[SPECTRE : Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators](https://arxiv.org/abs/2204.01613) ```Arxiv 2022```
+
 [Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions](https://openreview.net/forum?id=tBtoZYKd9n) ```ICLR 2022```
 
 [On Evaluation Metrics for Graph Generative Models](https://openreview.net/forum?id=EnwCZixjSh) ```ICLR 2022```
@@ -34,9 +38,13 @@
 
 [TD-GEN: Graph Generation Using Tree Decomposition](https://proceedings.mlr.press/v151/shirzad22a.html) ```AISTATS 2022```
 
+[Deep generative models for spatial networks](https://dl.acm.org/doi/abs/10.1145/3447548.3467394) ```SIGKDD 2021```
+
 [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://proceedings.mlr.press/v139/chen21j.html) ```ICML 2021```
 
 [GraphDF: A discrete flow model for molecular graph generation](https://proceedings.mlr.press/v139/luo21a.html) ```ICML 2021``` 
+
+[Interpretable deep graph generation with node-edge co-disentanglement](https://dl.acm.org/doi/abs/10.1145/3394486.3403221) ```SIGKDD 2020```
 
 [Multi-MotifGAN (MMGAN): Motif-Targeted graph generation and prediction](https://ieeexplore.ieee.org/abstract/document/9053451?casa_token=dzHVa7IYE7MAAAAA:2RuJ1izF88dqlBasiBchpa-p4wjqiZqUQNOE4zAc7aYM5u-32gz1V2JTM6zzAuEiX13kZcTX) ```ICASSP 2020``` 
 
@@ -158,9 +166,15 @@
 
 ### Molecule Generation
 
+[Exploring Chemical Space with Score-based Out-of-distribution Generation](https://arxiv.org/abs/2206.07632) ```Arxiv 2022```
+
 [Interpretable molecular graph generation via monotonic constraints](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.9) ```SDM 2022```
 
 [Robust Molecular Image Recognition: A Graph Generation Approach](https://arxiv.org/abs/2205.14311) ```Arxiv 2022```
+
+[Small molecule generation via disentangled representation learning](https://pubmed.ncbi.nlm.nih.gov/35511125/) ```Bioinformatics 2021```
+
+[Deep latent-variable models for controllable molecule generation](https://ieeexplore.ieee.org/abstract/document/9669692/) ```BIBM 2021```
 
 [Spanning Tree-based Graph Generation for Molecules](https://openreview.net/forum?id=w60btE_8T2m) ```ICLR 2021```
 
