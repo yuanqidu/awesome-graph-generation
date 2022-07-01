@@ -1,6 +1,6 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of up-to-date graph generation papers and resources.
- - This Repo is being actively updated and maintained! 06/20/22 
+ - This Repo is being actively updated and maintained! 07/02/22 
 
 ## Cotents
 - [Survey](#Survey)
@@ -23,6 +23,8 @@
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ## Algorithm
+
+[An Unpooling Layer for Graph Generation](https://arxiv.org/abs/2206.01874) ```Arxiv 2022```
 
 [Deep graph translation](https://ieeexplore.ieee.org/abstract/document/9737289/) ```TNNLS 2022```
 
