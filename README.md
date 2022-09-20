@@ -24,17 +24,17 @@
 
 ## Algorithm
 
-[Deep Generative Model for Periodic Graphs]() ```NeurIPS 2022```
+[Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
 
-[An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries]() ```NeurIPS 2022```
+[An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries](https://openreview.net/forum?id=VBbxHvbJd94) ```NeurIPS 2022```
 
-[AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators]() ```NeurIPS 2022```
+[AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators](https://openreview.net/forum?id=_7bphw9JosH) ```NeurIPS 2022```
 
-[Evaluating Graph Generative Models with Contrastively Learned Features]() ```NeurIPS 2022```
+[Evaluating Graph Generative Models with Contrastively Learned Features](https://openreview.net/forum?id=e65KZ0ixi0) ```NeurIPS 2022```
 
-[A Variational Edge Partition Model for Supervised Graph Representation Learning]() ```NeurIPS 2022```
+[A Variational Edge Partition Model for Supervised Graph Representation Learning](https://openreview.net/forum?id=PfStAhJ2t1g) ```NeurIPS 2022```
 
-[Symmetry-induced Disentanglement on Graphs]() ```NeurIPS 2022```
+[Symmetry-induced Disentanglement on Graphs](https://openreview.net/forum?id=4tM0P_4N8D9) ```NeurIPS 2022```
 
 [An Unpooling Layer for Graph Generation](https://arxiv.org/abs/2206.01874) ```Arxiv 2022```
 
@@ -180,7 +180,7 @@
 
 ### Molecule Generation
 
-[Molecule Generation by Principal Subgraph Mining and Assembling]() ```NeurIPS 2022```
+[Molecule Generation by Principal Subgraph Mining and Assembling](https://openreview.net/forum?id=ATfARCRmM-a) ```NeurIPS 2022```
 
 [Exploring Chemical Space with Score-based Out-of-distribution Generation](https://arxiv.org/abs/2206.07632) ```Arxiv 2022```
 
