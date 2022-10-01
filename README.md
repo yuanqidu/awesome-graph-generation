@@ -24,6 +24,8 @@
 
 ## Algorithm
 
+[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```Arxiv 2022```
+
 [Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
 
 [An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries](https://openreview.net/forum?id=VBbxHvbJd94) ```NeurIPS 2022```
