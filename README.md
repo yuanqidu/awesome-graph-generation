@@ -11,7 +11,7 @@
 
 ## Survey
 
-[A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```Arxiv 2022```
+[A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```LoG 2022```
 
 [Deep graph generators: A survey](https://ieeexplore.ieee.org/abstract/document/9490655) ```IEEE Access 2021```
 
