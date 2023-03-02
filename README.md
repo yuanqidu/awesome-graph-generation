@@ -18,14 +18,14 @@
 
 [Graph Generators: State of the art and open challenges](https://dl.acm.org/doi/abs/10.1145/3379445?casa_token=Syl-NzklLz4AAAAA:vEsigA-YrEurZe6VKi7xjzTxFHkAkELv8zj0OROgi3jjGb_2lSxRkEwqE-qvZ5cCNRkvDWkROCo) ```CSUR 2020```
 
-[A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```Arxiv 2020```
+[A Systematic Survey on Deep Generative Models for Graph Generation](https://arxiv.org/abs/2007.06686) ```TPAMI 2022```
 
 ## Dataset
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ## Algorithm
 
-[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```Arxiv 2022```
+[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```ICLR 2023```
 
 [Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
 
