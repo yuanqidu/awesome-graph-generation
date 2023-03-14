@@ -183,7 +183,7 @@
 
 ### Molecule Generation
 
-[MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) ```Arxiv 2023111
+[MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) ```Arxiv 2023```
 
 [Molecule Generation by Principal Subgraph Mining and Assembling](https://openreview.net/forum?id=ATfARCRmM-a) ```NeurIPS 2022```
 
