@@ -29,13 +29,9 @@
 
 [Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
 
-[An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries](https://openreview.net/forum?id=VBbxHvbJd94) ```NeurIPS 2022```
-
 [AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators](https://openreview.net/forum?id=_7bphw9JosH) ```NeurIPS 2022```
 
 [Evaluating Graph Generative Models with Contrastively Learned Features](https://openreview.net/forum?id=e65KZ0ixi0) ```NeurIPS 2022```
-
-[A Variational Edge Partition Model for Supervised Graph Representation Learning](https://openreview.net/forum?id=PfStAhJ2t1g) ```NeurIPS 2022```
 
 [Symmetry-induced Disentanglement on Graphs](https://openreview.net/forum?id=4tM0P_4N8D9) ```NeurIPS 2022```
 
@@ -181,9 +177,11 @@
 
 ## Application
 
-### Molecule Generation
+### Chemistry
 
 [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) ```Arxiv 2023```
+
+[An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries](https://openreview.net/forum?id=VBbxHvbJd94) ```NeurIPS 2022```
 
 [Molecule Generation by Principal Subgraph Mining and Assembling](https://openreview.net/forum?id=ATfARCRmM-a) ```NeurIPS 2022```
 
@@ -229,7 +227,7 @@
 
 [Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) ```ICML 2018``` 
 
-### Protein Design
+### Biology
 
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
 
