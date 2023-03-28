@@ -1,6 +1,6 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of up-to-date graph generation papers and resources.
- - This Repo is being actively updated and maintained! 03/14/23
+ - This Repo is being actively updated and maintained! 03/28/23
  - Please let us know if we miss any papers!
 
 ## Cotents
@@ -26,6 +26,8 @@
 ## Algorithm
 
 [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```ICLR 2023```
+
+[Disentangled Spatiotemporal Graph Generative Models](https://ojs.aaai.org/index.php/AAAI/article/view/20607) ```AAAI 2022```
 
 [Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
 
