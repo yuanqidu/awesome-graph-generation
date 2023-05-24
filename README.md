@@ -27,6 +27,10 @@
 
 [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```ICLR 2023```
 
+[Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation](https://arxiv.org/abs/2301.00427) ```AAAI 2023```
+
+[GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation](https://arxiv.org/abs/2212.01842) ```ICDM 2022```
+
 [Disentangled Spatiotemporal Graph Generative Models](https://ojs.aaai.org/index.php/AAAI/article/view/20607) ```AAAI 2022```
 
 [Deep Generative Model for Periodic Graphs](https://openreview.net/forum?id=lgNGDjWRTo-) ```NeurIPS 2022```
@@ -180,6 +184,8 @@
 ## Application
 
 ### Chemistry
+
+[Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347) ```Arxiv 2023```
 
 [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) ```Arxiv 2023```
 
