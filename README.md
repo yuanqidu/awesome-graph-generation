@@ -1,16 +1,19 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of up-to-date graph generation papers and resources.
- - This Repo is being actively updated and maintained! 03/28/23
+ - This Repo is being actively updated and maintained! 03/17/24
  - Please let us know if we miss any papers!
 
 ## Cotents
 - [Survey](#Survey)
 - [Dataset](#Dataset)
 - [Algorithm](#Algorithm)
+- [Metrics](#Metrics)
 - [Application](#Application)
 - [Resources](#Resource)
 
 ## Survey
+
+[Generative Diffusion Models on Graphs: Methods and Applications](https://www.ijcai.org/proceedings/2023/751) `IJCAI 2023`
 
 [A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```LoG 2022```
 
@@ -24,6 +27,18 @@
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ## Algorithm
+
+[Efficient and Scalable Graph Generation through Iterative Local Expansion](https://openreview.net/forum?id=2XkTz7gdpc) `ICLR 2024`
+
+[Sparse Training of Discrete Diffusion Models for Graph Generation](https://openreview.net/forum?id=oTRekADULK) `Arxiv 2024`
+
+[Autoregressive Diffusion Model for Graph Generation](https://proceedings.mlr.press/v202/kong23b.html) `ICML 2023` 
+
+[MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://www.ijcai.org/proceedings/2023/556) `IJCAI 2023`
+
+[Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling](https://openreview.net/forum?id=vn9O1N5ZOw) `ICML 2023`
+
+[Graph Generative Model for Benchmarking Graph Neural Networks](https://openreview.net/forum?id=SpA7YFu02k) `ICML 2023`
 
 [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```ICLR 2023```
 
@@ -46,10 +61,6 @@
 [Deep graph translation](https://ieeexplore.ieee.org/abstract/document/9737289/) ```TNNLS 2022```
 
 [SPECTRE : Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators](https://arxiv.org/abs/2204.01613) ```Arxiv 2022```
-
-[Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions](https://openreview.net/forum?id=tBtoZYKd9n) ```ICLR 2022```
-
-[On Evaluation Metrics for Graph Generative Models](https://openreview.net/forum?id=EnwCZixjSh) ```ICLR 2022```
 
 [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) ```ICLR 2022```
 
@@ -181,9 +192,25 @@
 
 [On the evolution of random graphs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.530&rep=rep1&type=pdf) ```Publ. Math. Inst. Hung. Acad. Sci 1960``` 
 
+## Metrics
+
+[MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy](https://openreview.net/forum?id=GZ6AcZwA8r) `ICLR 2024`
+
+[Curvature Filtrations for Graph Generative Model Evaluation](https://arxiv.org/abs/2301.12906)   `NeurIPS 2023`
+
+[Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions](https://openreview.net/forum?id=tBtoZYKd9n) ```ICLR 2022```
+
+[On Evaluation Metrics for Graph Generative Models](https://openreview.net/forum?id=EnwCZixjSh) ```ICLR 2022```
+
+[Metrics for graph comparison: A practitioner’s guide](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228728)  ```PONE 2022```
+
 ## Application
 
 ### Chemistry
+
+[Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140) `ICML 2023`
+
+[Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D](https://openreview.net/forum?id=7haEvhb25X) `ICML 2023`
 
 [Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347) ```Arxiv 2023```
 
@@ -236,6 +263,8 @@
 [Junction tree variational autoencoder for molecular graph generation](https://arxiv.org/abs/1802.04364) ```ICML 2018``` 
 
 ### Biology
+
+[Protein Design with Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p) `NeurIPS 2023`
 
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
 
