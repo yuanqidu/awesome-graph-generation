@@ -27,6 +27,7 @@
 [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://graphgt.github.io/) ```NeurIPS 2021```
 
 ## Algorithm
+[Exploring the Potential of Large Language Models in Graph Generation](https://arxiv.org/pdf/2403.14358) `Arxiv 2024`
 
 [Efficient and Scalable Graph Generation through Iterative Local Expansion](https://openreview.net/forum?id=2XkTz7gdpc) `ICLR 2024`
 
