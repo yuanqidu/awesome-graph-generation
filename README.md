@@ -13,6 +13,8 @@
 
 ## Survey
 
+[Machine Learning-Aided Generative Molecular Design](https://www.nature.com/articles/s42256-024-00843-5) `Nature Machine Intelligence 2024`
+
 [Generative Diffusion Models on Graphs: Methods and Applications](https://www.ijcai.org/proceedings/2023/751) `IJCAI 2023`
 
 [A Survey on Deep Graph Generation: Methods and Applications](https://arxiv.org/abs/2203.06714) ```LoG 2022```
@@ -28,9 +30,23 @@
 
 ## Algorithm
 
+[Variational Flow Matching for Graph Generation](https://arxiv.org/pdf/2406.04843) `NeurIPS 2024`
+
+[Doob’s Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling](https://arxiv.org/abs/2410.07974)  `NeurIPS 2024`
+
+[Navigating Chemical Space with Latent Flows](https://arxiv.org/abs/2405.03987) `NeurIPS 2024`
+
+[DeFoG: Discrete Flow Matching for Graph Generation](https://paperswithcode.com/paper/defog-discrete-flow-matching-for-graph) `Arxiv 2024`
+
+[Fisher Flow Matching for Generative Modeling over Discrete Data](https://arxiv.org/abs/2405.14664) `Arxiv 2024`
+
 [Efficient and Scalable Graph Generation through Iterative Local Expansion](https://openreview.net/forum?id=2XkTz7gdpc) `ICLR 2024`
 
 [Sparse Training of Discrete Diffusion Models for Graph Generation](https://openreview.net/forum?id=oTRekADULK) `Arxiv 2024`
+
+[Equivariant flow matching](https://arxiv.org/abs/2306.15030v2) `NeurIPS 2023`
+
+[Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation](https://openreview.net/forum?id=hHUZ5V9XFu) `NeurIPS 2023`
 
 [Autoregressive Diffusion Model for Graph Generation](https://proceedings.mlr.press/v202/kong23b.html) `ICML 2023` 
 
@@ -207,6 +223,10 @@
 ## Application
 
 ### Chemistry
+
+[Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport](https://openreview.net/forum?id=CxAjGjdkqu) `ICML 2024 workshop`
+
+[Equivariant Flow Matching for Molecular Conformer Generation](https://openreview.net/forum?id=Xdpkd4FjAQ) `ICML 2024 workshop`
 
 [Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140) `ICML 2023`
 
