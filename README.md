@@ -1,6 +1,6 @@
 # Awesome-Graph-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  - A curated list of up-to-date graph generation papers and resources.
- - This Repo is being actively updated and maintained! 03/17/24
+ - This Repo is being actively updated and maintained! 01/03/25
  - Please let us know if we miss any papers!
 
 ## Cotents
@@ -30,31 +30,37 @@
 
 ## Algorithm
 
-[Variational Flow Matching for Graph Generation](https://arxiv.org/pdf/2406.04843) `NeurIPS 2024`
+[Graph Generative Pre-trained Transformer](https://www.arxiv.org/abs/2501.01073) ```Arxiv 2024```
 
-[Doob’s Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling](https://arxiv.org/abs/2410.07974)  `NeurIPS 2024`
+[Discrete-state Continuous-time Diffusion for Graph Generation](https://openreview.net/pdf?id=YkSKZEhIYt) ```NeurIPS 2024```
 
-[Navigating Chemical Space with Latent Flows](https://arxiv.org/abs/2405.03987) `NeurIPS 2024`
+[Cometh: A continuous-time discrete-state graph diffusion model](https://arxiv.org/abs/2406.06449) ```Arxiv 2024```
 
-[DeFoG: Discrete Flow Matching for Graph Generation](https://paperswithcode.com/paper/defog-discrete-flow-matching-for-graph) `Arxiv 2024`
+[Variational Flow Matching for Graph Generation](https://arxiv.org/pdf/2406.04843) ```NeurIPS 2024```
 
-[Fisher Flow Matching for Generative Modeling over Discrete Data](https://arxiv.org/abs/2405.14664) `Arxiv 2024`
+[Doob’s Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling](https://arxiv.org/abs/2410.07974)  ```NeurIPS 2024```
 
-[Efficient and Scalable Graph Generation through Iterative Local Expansion](https://openreview.net/forum?id=2XkTz7gdpc) `ICLR 2024`
+[Navigating Chemical Space with Latent Flows](https://arxiv.org/abs/2405.03987) ```NeurIPS 2024```
 
-[Sparse Training of Discrete Diffusion Models for Graph Generation](https://openreview.net/forum?id=oTRekADULK) `Arxiv 2024`
+[DeFoG: Discrete Flow Matching for Graph Generation](https://paperswithcode.com/paper/defog-discrete-flow-matching-for-graph) ```Arxiv 2024```
 
-[Equivariant flow matching](https://arxiv.org/abs/2306.15030v2) `NeurIPS 2023`
+[Fisher Flow Matching for Generative Modeling over Discrete Data](https://arxiv.org/abs/2405.14664) ```Arxiv 2024```
 
-[Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation](https://openreview.net/forum?id=hHUZ5V9XFu) `NeurIPS 2023`
+[Efficient and Scalable Graph Generation through Iterative Local Expansion](https://openreview.net/forum?id=2XkTz7gdpc) ```ICLR 2024```
 
-[Autoregressive Diffusion Model for Graph Generation](https://proceedings.mlr.press/v202/kong23b.html) `ICML 2023` 
+[Sparse Training of Discrete Diffusion Models for Graph Generation](https://openreview.net/forum?id=oTRekADULK) ```Arxiv 2024```
 
-[MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://www.ijcai.org/proceedings/2023/556) `IJCAI 2023`
+[Equivariant flow matching](https://arxiv.org/abs/2306.15030v2) ```NeurIPS 2023```
 
-[Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling](https://openreview.net/forum?id=vn9O1N5ZOw) `ICML 2023`
+[Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation](https://openreview.net/forum?id=hHUZ5V9XFu) ```NeurIPS 2023```
 
-[Graph Generative Model for Benchmarking Graph Neural Networks](https://openreview.net/forum?id=SpA7YFu02k) `ICML 2023`
+[Autoregressive Diffusion Model for Graph Generation](https://proceedings.mlr.press/v202/kong23b.html) ```ICML 2023```
+
+[MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://www.ijcai.org/proceedings/2023/556) ```IJCAI 2023```
+
+[Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling](https://openreview.net/forum?id=vn9O1N5ZOw) ```ICML 2023```
+
+[Graph Generative Model for Benchmarking Graph Neural Networks](https://openreview.net/forum?id=SpA7YFu02k) ```ICML 2023```
 
 [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) ```ICLR 2023```
 
@@ -284,7 +290,9 @@
 
 ### Biology
 
-[Protein Design with Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p) `NeurIPS 2023`
+[Generative flows on discrete state-spaces: Enabling multimodal flows with applications to protein co-design](https://arxiv.org/abs/2402.04997) ```Arxiv 2024```
+
+[Protein Design with Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p) ```NeurIPS 2023```
 
 [Generative modeling for protein structures](https://dl.acm.org/doi/abs/10.5555/3327757.3327850) ```NeurIPS 2018```
 
